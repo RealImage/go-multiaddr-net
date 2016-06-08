@@ -1,10 +1,10 @@
 {
-  "author": "jbenet",
+  "author": "sivachandran",
   "bugs": {
-    "url": "https://github.com/jbenet/go-multiaddr-net"
+    "url": "https://github.com/RealImage/go-multiaddr-net"
   },
   "gx": {
-    "dvcsimport": "github.com/jbenet/go-multiaddr-net"
+    "dvcsimport": "github.com/RealImage/go-multiaddr-net"
   },
   "gxDependencies": [
     {
@@ -14,8 +14,8 @@
       "version": "0.0.0"
     },
     {
-      "author": "whyrusleeping",
-      "hash": "QmcobAGsCjYt5DXoq9et9L8yR8er7o7Cu3DTvpaq12jYSz",
+      "author": "sivachandran",
+      "hash": "QmUAYG8DkWz8QeMfFLCAeLMAKMTJR1Dtak8mvRiSbCN63y",
       "name": "go-multiaddr",
       "version": "0.0.0"
     }

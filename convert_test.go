@@ -4,8 +4,8 @@ import (
 	"net"
 	"testing"
 
-	ma "github.com/jbenet/go-multiaddr"
-	mautp "github.com/jbenet/go-multiaddr-net/utp"
+	ma "github.com/RealImage/go-multiaddr"
+	mautp "github.com/RealImage/go-multiaddr-net/utp"
 )
 
 type GenFunc func() (ma.Multiaddr, error)

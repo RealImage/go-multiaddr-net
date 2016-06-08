@@ -7,7 +7,7 @@ import (
 	"sync"
 	"testing"
 
-	ma "github.com/jbenet/go-multiaddr"
+	ma "github.com/RealImage/go-multiaddr"
 )
 
 func newMultiaddr(t *testing.T, m string) ma.Multiaddr {

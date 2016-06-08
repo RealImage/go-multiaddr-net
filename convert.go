@@ -5,8 +5,8 @@ import (
 	"net"
 	"strings"
 
-	ma "github.com/jbenet/go-multiaddr"
-	utp "github.com/jbenet/go-multiaddr-net/utp"
+	ma "github.com/RealImage/go-multiaddr"
+	utp "github.com/RealImage/go-multiaddr-net/utp"
 )
 
 var errIncorrectNetAddr = fmt.Errorf("incorrect network addr conversion")

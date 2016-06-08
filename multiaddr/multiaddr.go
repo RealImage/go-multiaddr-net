@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"os"
 
-	ma "github.com/jbenet/go-multiaddr"
-	manet "github.com/jbenet/go-multiaddr-net"
+	ma "github.com/RealImage/go-multiaddr"
+	manet "github.com/RealImage/go-multiaddr-net"
 )
 
 // flags

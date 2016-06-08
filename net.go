@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net"
 
-	ma "github.com/jbenet/go-multiaddr"
-	mautp "github.com/jbenet/go-multiaddr-net/utp"
+	ma "github.com/RealImage/go-multiaddr"
+	mautp "github.com/RealImage/go-multiaddr-net/utp"
 )
 
 // Conn is the equivalent of a net.Conn object. It is the
